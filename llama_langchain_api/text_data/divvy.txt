@@ -1,0 +1,48 @@
+
+1. Introduction
+DivvyDrive is a powerful file management application designed to simplify your storage and organization needs. In this guide, you will find detailed instructions on how to perform various actions within the DivvyDrive application.
+
+2. Changing Your Password
+To change your password, follow these steps:
+
+Open the DivvyDrive application on your device.
+Log in to your account using your existing credentials.
+Navigate to the "Settings" or "Account" section of the app.
+Look for the "Change Password" option and click on it.
+Enter your current password for verification.
+Provide your new password and confirm it.
+Save your changes.
+Remember to choose a strong password that includes a combination of letters, numbers, and symbols to enhance the security of your account.
+
+3. Updating Your Profile Photo
+Personalize your account by adding or changing your profile photo:
+
+Log in to the DivvyDrive app.
+Go to your account settings.
+Locate the "Profile" or "Profile Photo" option.
+Choose to upload a new photo or select one from your device's gallery.
+Adjust and crop the photo if necessary.
+Save your changes to update your profile photo.
+
+4. Checking Number of Files
+To see the number of files in your DivvyDrive account, follow these steps:
+
+Open the DivvyDrive app and log in.
+Navigate to the main dashboard or file explorer.
+Look for a "Statistics" or "Account Info" option.
+You should find information about the total number of files in your account.
+
+5. Deleting Your Account
+If you decide to delete your DivvyDrive account, please be aware that this action is irreversible and will result in the loss of all your stored files. To delete your account:
+
+Log in to the DivvyDrive app.
+Access your account settings.
+Locate the "Delete Account" or "Account Deletion" option.
+Follow the prompts to confirm the account deletion.
+Be sure to read and understand any warning messages before proceeding.
+
+6. Contact Support
+If you encounter any difficulties or have questions while using DivvyDrive, please don't hesitate to contact our support team. You can reach us through the "Help" or "Support" section within the app or visit our official website for additional contact information.
+
+7. Terms of Use and Privacy Policy
+Before using DivvyDrive, make sure to review and understand our Terms of Use and Privacy Policy. These documents outline the rights, responsibilities, and data handling practices associated with using our application.
